@@ -67,3 +67,39 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* edited css */
+
+.divone {
+  display: flex;
+}
+
+.modal {
+  padding: 16px;
+}
+
+.close-button {
+  margin-left: auto;
+  flex-shrink: 0;
+}
+
+.icon {
+  margin-right: 16px;
+  flex-shrink: 0;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.divtwo {
+  margin-left: 56px;
+}
+
+.text {
+  margin-bottom: 16px;
+}
+
+
+
