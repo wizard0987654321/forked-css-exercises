@@ -25,3 +25,38 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+/*answers*/
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+}
+
+.footer {
+  background-color: #eeeeee
+}
+
+button {
+  padding: 10px;
+}
